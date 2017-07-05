@@ -2,3 +2,35 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent get a fact 
+GetNewFactIntent get me an interesting fact 
+GetNewFactIntent get me an awesome fact 
+GetNewFactIntent get a new fact 
+GetNewFactIntent get an awesome fact 
+GetNewFactIntent get something fun 
+GetNewFactIntent get something interesting 
+GetNewFactIntent tell something fun 
+GetNewFactIntent say something fun 
+GetNewFactIntent say something interesting 
+GetNewFactIntent say interesting thing 
+GetNewFactIntent say new thing 
+
+GetNewYearFactIntent what happen in {FACT_YEAR}
+GetNewYearFactIntent what happened {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR}
+GetNewYearFactIntent what 's interesting in {FACT_YEAR}
+GetNewYearFactIntent get a fact in {FACT_YEAR}
+GetNewYearFactIntent get a fun fact in {FACT_YEAR}
+GetNewYearFactIntent get a cool fact in {FACT_YEAR}
+GetNewYearFactIntent interesting fact in {FACT_YEAR}
+GetNewYearFactIntent nice fact in {FACT_YEAR}
+GetNewYearFactIntent cool fact in {FACT_YEAR}
+GetNewYearFactIntent get something in {FACT_YEAR}
+GetNewYearFactIntent say something in {FACT_YEA}R
+GetNewYearFactIntent say something fun in {FACT_YEAR}
+GetNewYearFactIntent tell a story in {FACT_YEAR}
+GetNewYearFactIntent tell me about the year {FACT_YEAR}
+GetNewYearFactIntent talk about the year {FACT_YEAR}
+GetNewYearFactIntent year {FACT_YEAR}
+GetNewYearFactIntent awesome {FACT_YEAR}
+GetNewYearFactIntent nice {FACT_YEAR}
